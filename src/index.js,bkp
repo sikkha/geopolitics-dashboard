@@ -1,14 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-
-// Remove the default index.css import if it's no longer needed
-// import './index.css';
-
-// ---> Add this line to import your generated Tailwind CSS <---
-import './output.css';
-// ---> End of added line <---
-
-import App from './App'; // This should render your GeopoliticalDashboard
+import './index.css';
+import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));

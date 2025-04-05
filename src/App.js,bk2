@@ -392,12 +392,3 @@ function GeopoliticalDashboard() {
 
 export default GeopoliticalDashboard; // Export the main component
 
-// ... (paste all the code from the Canvas here) ...
-
-function App() {
-  return (
-    <GeopoliticalDashboard />
-  );
-}
-
-// export default App; // Ensure App is exported if it wasn't already
