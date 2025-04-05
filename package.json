@@ -16,9 +16,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    // --- MODIFIED LINE BELOW ---
     "build": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css && react-scripts build",
-    // --- END OF MODIFIED LINE ---
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
