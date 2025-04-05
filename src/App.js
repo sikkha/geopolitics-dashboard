@@ -138,16 +138,6 @@ const dashboardData = {
                 ]
             }
         ],
-        bonus: {
-            title: "Bonus: Memetic Profiteering",
-            icon: "🧠",
-            intro: "Turn the thesis into a viral narrative:",
-            actions: [
-                 "🎙 Start a Substack, podcast, or AI newsletter on “The Coming Reset.”",
-                 "🌍 Offer country-by-country collapse modeling in premium reports.",
-                 "📈 Use memes + real charts to draw in both doomers and hedge funds."
-            ]
-        }
     }
 };
 
